@@ -13,3 +13,7 @@ div {
 div img {
     border-radius: 200px;
 }
+
+p {
+    color: gray;
+}
