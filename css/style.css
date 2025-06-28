@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+div {
+    width: 600px;
+    margin: 2em auto 0;
+    text-align: center;
+
+}
+
+div img {
+    border-radius: 200px;
+}
+
+p {
+    color: gray;
+}
